@@ -5,7 +5,7 @@ Self-made neural network using simple just python, numpy and math. Can change th
 ![temp](https://github.com/pranavturlapati28/Simple-Neural-Network-Design/assets/111582864/a52fe20b-1f98-473e-a5d8-f76ffc55e464)
 
 Implemented on sample Kaggle dataset:
-[Kaggle Dataset]([docs/CONTRIBUTING.md](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset?resource=download)https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset?resource=download)
+[Kaggle Dataset]([https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset?resource=download)
 
 ![image](https://github.com/pranavturlapati28/Simple-Neural-Network-Design/assets/111582864/c119bfdf-28c9-4d01-8b1c-e6de5b759d64)
 
